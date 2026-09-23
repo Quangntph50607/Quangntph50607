@@ -67,61 +67,25 @@
 ## 🚀 Featured Projects
 
 ### 💬 FlowDesk
-> 🚧 Personal Project — Currently in Development
+> 🚧 Personal Project — In Development
 
-A multi-tenant CRM and internal communication platform designed for small and medium-sized businesses.
-
-FlowDesk provides isolated workspaces for each business, customer management, workspace-based authorization, and real-time internal communication between team members.
+A multi-tenant CRM and internal communication platform for team collaboration and customer management.
 
 **Tech Stack**
 
-`Java 21` `Spring Boot` `Spring Security` `Spring Data JPA`
-`JWT` `WebSocket` `STOMP` `SQL Server`
-`Nuxt 3` `Vue 3` `Pinia` `PrimeVue` `Tailwind CSS`
-`Backblaze B2 / S3 API`
+`Java 21` `Spring Boot` `Spring Security` `JPA` `SQL Server`
+`JWT` `WebSocket` `Nuxt 3` `Vue 3` `Backblaze B2`
 
-**Implemented / In Progress**
+**Highlights**
 
-- 🏢 Multi-tenant workspace architecture
-- 🌿 Parent workspace and branch management
-- 👥 Workspace membership and role-based authorization
-- 🔐 JWT authentication with Spring Security
-- 👤 Customer management
-- 💬 Internal direct messaging
-- 👨‍👩‍👧‍👦 Group chat
-- ⚡ Real-time messaging with WebSocket / STOMP
-- 📩 Unread message tracking
-- 📌 Conversation management
-- 📎 File and image upload using Backblaze B2
-- 🗄️ SQL Server relational database design
-- 🔌 RESTful API architecture
-- 📖 OpenAPI / Swagger documentation
+- Multi-tenant workspace & role management
+- JWT authentication & authorization
+- Customer management
+- Real-time direct & group chat with WebSocket
+- File & image storage with Backblaze B2
+- RESTful API & relational database design
 
-**Workspace Roles**
-
-`OWNER` `ADMIN` `AGENT`
-
-**Architecture Highlights**
-
-- Workspace data isolation for multi-tenant SaaS
-- Two-level workspace model: main workspace and branches
-- Role-based access control
-- Direct and group conversations scoped to workspace members
-- Paginated message history
-- Backend and frontend separated inside a monorepo
-
-**Planned Features**
-
-- ✅ Task management
-- 🏷️ Customer tags
-- 🔔 Notification system
-- 📜 Audit logs
-- 🌐 Facebook / Zalo / Email integration
-- 🤖 AI suggestions
-- ⚡ Redis / Kafka / Automation
-- 💳 Billing & Subscription
-
-🔗 Repository:  
+🔗 Repository: 
 https://github.com/Quangntph50607/flowdesk
 
 ---
@@ -177,7 +141,7 @@ https://github.com/Quangntph50607/QuanLyXuongDuAn
 
 ### Frontend Developer — IDT Inc Technology Joint Stock Company
 
-`Oct 2025 - Aug 2026`
+`Oct 2025 - Sep 2026`
 
 Worked on multiple real-world projects using:
 
@@ -204,18 +168,6 @@ Software Development
 `2023 - 2025`
 
 **GPA: 3.45 / 4.0**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quangntph50607&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quangntph50607&layout=compact&hide_border=true" />
-</p>
 
 ---
 
