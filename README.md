@@ -66,6 +66,66 @@
 
 ## 🚀 Featured Projects
 
+### 💬 FlowDesk
+> 🚧 Personal Project — Currently in Development
+
+A multi-tenant CRM and internal communication platform designed for small and medium-sized businesses.
+
+FlowDesk provides isolated workspaces for each business, customer management, workspace-based authorization, and real-time internal communication between team members.
+
+**Tech Stack**
+
+`Java 21` `Spring Boot` `Spring Security` `Spring Data JPA`
+`JWT` `WebSocket` `STOMP` `SQL Server`
+`Nuxt 3` `Vue 3` `Pinia` `PrimeVue` `Tailwind CSS`
+`Backblaze B2 / S3 API`
+
+**Implemented / In Progress**
+
+- 🏢 Multi-tenant workspace architecture
+- 🌿 Parent workspace and branch management
+- 👥 Workspace membership and role-based authorization
+- 🔐 JWT authentication with Spring Security
+- 👤 Customer management
+- 💬 Internal direct messaging
+- 👨‍👩‍👧‍👦 Group chat
+- ⚡ Real-time messaging with WebSocket / STOMP
+- 📩 Unread message tracking
+- 📌 Conversation management
+- 📎 File and image upload using Backblaze B2
+- 🗄️ SQL Server relational database design
+- 🔌 RESTful API architecture
+- 📖 OpenAPI / Swagger documentation
+
+**Workspace Roles**
+
+`OWNER` `ADMIN` `AGENT`
+
+**Architecture Highlights**
+
+- Workspace data isolation for multi-tenant SaaS
+- Two-level workspace model: main workspace and branches
+- Role-based access control
+- Direct and group conversations scoped to workspace members
+- Paginated message history
+- Backend and frontend separated inside a monorepo
+
+**Planned Features**
+
+- ✅ Task management
+- 🏷️ Customer tags
+- 🔔 Notification system
+- 📜 Audit logs
+- 🌐 Facebook / Zalo / Email integration
+- 🤖 AI suggestions
+- ⚡ Redis / Kafka / Automation
+- 💳 Billing & Subscription
+
+🔗 Repository:  
+https://github.com/Quangntph50607/flowdesk
+
+---
+
 ### 🛒 Lego My Kingdom E-commerce Platform
 
 Full-stack e-commerce platform developed with a team of 5.
